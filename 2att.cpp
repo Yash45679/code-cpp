@@ -8,7 +8,7 @@ int main(){
     for(int i=0;i<5;i++){
         cin>>arr[i];
     }
-    
+    //cout<<"Hello World";
     if(abs(arr[0]-arr[1])==0){
         
     }
