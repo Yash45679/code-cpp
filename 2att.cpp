@@ -16,6 +16,6 @@ int main(){
     
     cout<<arr[0];
     
-	// your code goes here
+	
 	return 0;
 }
