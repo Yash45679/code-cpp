@@ -14,7 +14,7 @@ int main(){
     }
 	// changed sucsessfully
    
-    
+    cout<<"bsdk";
     cout<<arr[0];
     
 	
