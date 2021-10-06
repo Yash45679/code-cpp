@@ -12,6 +12,7 @@ int main(){
     if(abs(arr[0]-arr[1])==0){
         
     }
+	// changed sucsessfully
    
     
     cout<<arr[0];
